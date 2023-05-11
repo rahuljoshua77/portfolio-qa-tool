@@ -1,0 +1,3 @@
+selenium==3.141
+pytest==6.2
+python-dotenv
