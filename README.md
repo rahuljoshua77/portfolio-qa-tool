@@ -56,4 +56,4 @@ Mocha and Chai are testing and assertion libraries for JavaScript. I have used M
 
 ## Contact Me
 
-If you have any questions or comments about any of these tools, feel free to reach out to me at linkedin.com/in/rahuljoshua.
+If you have any questions or comments about any of these tools, feel free to reach out to me at https://www.linkedin.com/in/rahuljoshua.
