@@ -1,9 +1,9 @@
 <h1 align="center">Portfolio QA Tool</h1>
 
 <p align="center">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/USERNAME/REPOSITORY?style=flat-square">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/USERNAME/REPOSITORY?style=flat-square">
-  <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/USERNAME/REPOSITORY?style=flat-square">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rahuljoshua77/portfolio-qa-tool?style=flat-square">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/rahuljoshua77/portfolio-qa-tool?style=flat-square">
+  <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/rahuljoshua77/portfolio-qa-tool?style=flat-square">
 </p>
 
 <p align="center">
