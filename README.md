@@ -24,16 +24,16 @@ WebdriverIO is an automated browser testing tool built on top of the WebDriver A
 1. Clone this repo to your computer.
 2. Navigate to the `webdriverio-ts` directory.
 3. Run the command `npm install` to install all dependencies.
-4. Run the command `npm test` to run all tests.
+4. Run the command `npm test testing` to run all tests.
 
 ## K6 Load Testing
 
-K6 is an open-source load testing tool developed with Golang. I have used K6 to perform load testing on some of the websites I manage. To get started with testing, please follow these steps:
+K6 is an open-source load testing tool developed with Js. I have used K6 to perform load testing on some of the websites I manage. To get started with testing, please follow these steps:
 
 1. Clone this repo to your computer.
 2. Navigate to the `k6-load-testing` directory.
 3. Run the command `npm install` to install all dependencies.
-4. Run the command `k6 run script.js` to run the test.
+4. Run the command `k6 run test` to run the test.
 
 ## Selenium Python
 
@@ -43,7 +43,7 @@ Selenium Python is an automation testing API that allows you to control the brow
 2. Navigate to the `selenium-python` directory.
 3. Ensure that Python and pip are installed on your computer.
 4. Run the command `pip install -r requirements.txt` to install all dependencies.
-5. Run the command `python test.py` to run all tests.
+5. Run the command `python test_function.py` to run all tests.
 
 ## Mocha Chai API Testing
 
